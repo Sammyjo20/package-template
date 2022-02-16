@@ -1,1 +1,1 @@
-## Project Template
+## Package Template
